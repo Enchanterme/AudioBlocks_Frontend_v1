@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/readme-search",
+    "fix/remove-legacy-peer-deps",
+    "fix/use-search-race-and-errors",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/readme-search": "main",
+    "fix/remove-legacy-peer-deps": "main",
+    "fix/use-search-race-and-errors": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/readme-search",
+    "fix/remove-legacy-peer-deps",
+    "fix/use-search-race-and-errors",
+    "origin"
+  ]
+}
