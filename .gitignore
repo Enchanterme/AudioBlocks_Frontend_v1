@@ -35,7 +35,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (can opt-in for committing if needed)
-.env*
 !.env.example
 
 # vercel
@@ -48,3 +47,4 @@ next-env.d.ts
 # Local browser test artifacts
 /test-results/
 /playwright-report/
+config.bat
